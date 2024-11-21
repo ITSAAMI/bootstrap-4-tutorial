@@ -28,8 +28,7 @@ Welcome to the **Bootstrap Classes Repository**! This repository contains all th
 2. Follow the sequence of files as listed in the **Contents** section for a smooth learning experience.
 3. Practice the examples and exercises included in each class.
 
-## Download Link
-You can download this repository by clicking on the link provided in the description of this video.
+
 
 ---
 
