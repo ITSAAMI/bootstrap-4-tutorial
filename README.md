@@ -1,2 +1,2 @@
-# bootstrap-4-tutorial-Lecture-01
-Comprehensive Bootstrap 4 tutorial repository for beginners, covering basics such as getting started, containers, and grid system with detailed code examples and explanations.
+### bootstrap-4-tutorial
+Here's the complete code with detailed notes and comments for Bootstrap 4 tutorial topics
